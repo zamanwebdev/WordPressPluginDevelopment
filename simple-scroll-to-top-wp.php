@@ -10,7 +10,7 @@
 	 * Author URI:        http://webdev.mourosizamanit.com/
 	 * License:           GPL v2 or later
 	 * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
-	 * Update URI:        https://github.com/shovoalways
+	 * Update URI:        https://github.com/zamanwebdev/WordPressPluginDevelopment
 	 * Text Domain:       sstt
 	*/
 ?>
